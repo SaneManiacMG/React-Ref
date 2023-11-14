@@ -1,11 +1,11 @@
 import "./App.css";
-import Focus from "./components/Focus";
+import HookTimer from "./components/HookTimer";
 
 function App() {
 	return (
 		<div className="App">
 			<h1>React App</h1>
-			<Focus />
+			<HookTimer />
 		</div>
 	);
 }
